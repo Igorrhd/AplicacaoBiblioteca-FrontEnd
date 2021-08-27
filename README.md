@@ -1,7 +1,5 @@
 # front-lib
 
-> lib
-
 ## Build Setup
 
 ``` bash
