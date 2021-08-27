@@ -1,3 +1,4 @@
+//Arquivo responsável pela integração do Back-End com o Front-End (é onde as requisições são feitas).
 import axios from "axios"
 
 export const http = axios.create({

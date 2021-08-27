@@ -1,6 +1,7 @@
+//Arquivo responsável pelas rotas da aplicação. 
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import PgInicial from '@/components/PgInicial'
 import Autor from '../views/autor.vue'
 import Livro from '../views/livro.vue'
 import Genero from '../views/genero.vue'
@@ -13,8 +14,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      name: 'PgInicial',
+      component: PgInicial
     },
     {
       path: '/autor',

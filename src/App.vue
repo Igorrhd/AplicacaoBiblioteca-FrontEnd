@@ -1,3 +1,4 @@
+<!-----Arquivo de criação padrão------->
 <template>
   <div id="app">
     <side-bar />
@@ -6,7 +7,7 @@
 </template>
 
 <script>
-import SideBar from './components/Menu.vue'
+import SideBar from './components/BarraNavegacao.vue'
 export default {
   name: 'App',
   components:{

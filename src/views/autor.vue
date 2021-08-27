@@ -1,4 +1,5 @@
-
+ <!-----Arquivo que realiza a consulta, inclusão, edição e exclusão dos autores. 
+ E também fica responsável por exibir a tabela com os dados dos autores------->
 <template>
  <div style="padding: 20px;">
    <a-card  title="Gerenciamento de Autores">
@@ -15,9 +16,7 @@
         v-model="form.ano_nascimento"
         placeholder="Data de Nascimento"
       />
-          <!-- <a-date-picker 
-             placeholder="Data de Nascimento"
-          v-model="form.ano_nascimento" style="width: 100%"/> -->
+        
     </a-form-item>
         <a-form-item label="Nacionalidade">
       <a-input

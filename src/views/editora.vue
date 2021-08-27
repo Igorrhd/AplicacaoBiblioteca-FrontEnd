@@ -1,4 +1,5 @@
-
+<!-----Arquivo que realiza a consulta, inclusão, edição e exclusão das editoras. 
+ E também fica responsável por exibir a tabela com os dados das editoras------->
 <template>
  <div style="padding: 20px;">
    <a-card  title="Gerenciamento de Editoras">

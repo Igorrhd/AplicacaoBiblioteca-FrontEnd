@@ -1,4 +1,5 @@
-
+<!-----Arquivo que realiza a consulta, inclusão, edição e exclusão dos generos literários. 
+ E também fica responsável por exibir a tabela com os dados dos generos literários------->
 <template>
  <div style="padding: 20px;">
    <a-card  title="Gerenciamento de Generos">

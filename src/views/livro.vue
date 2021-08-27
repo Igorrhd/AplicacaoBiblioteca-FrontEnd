@@ -1,4 +1,5 @@
-
+<!-----Arquivo que realiza a consulta, inclusão, edição e exclusão dos livors. 
+ E também fica responsável por exibir a tabela com os dados dos livros------->
 <template>
  <div style="padding: 20px;">
    <a-card  title="Gerenciamento de Livros">

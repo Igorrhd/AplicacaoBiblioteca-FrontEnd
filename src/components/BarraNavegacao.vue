@@ -1,3 +1,4 @@
+ <!-----Este é o menu que fica responsável pela navegação da aplicação web (barra de navegação).------->
 <template>
   <div>
     <a-menu mode="horizontal">
